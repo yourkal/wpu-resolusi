@@ -2,7 +2,10 @@ RENCANA KONTEN HAIKAL
 - JAVASCRIPT
 *ES6
 *Framework Javascript
+.view
 - Struktur data dasar
 - PHP FRAMEWORK
+.laravel
 - INTERVIEW
 - VLOG
+- Python
