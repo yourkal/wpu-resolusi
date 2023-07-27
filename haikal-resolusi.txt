@@ -1,0 +1,3 @@
+haikal resolusi
+- membuat project
+- membuat folder dan file
