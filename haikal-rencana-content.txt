@@ -2,6 +2,7 @@ RENCANA KONTEN HAIKAL
 - JAVASCRIPT
 *ES6
 *Framework Javascript
+^angular
 .view
 .react
 - Struktur data dasar
