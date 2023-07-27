@@ -1,3 +1,4 @@
 haikal resolusi
-- membuat project
+- membuat project sekolah
 - membuat folder dan file
+- mendapatkan ilmu baru
