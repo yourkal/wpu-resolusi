@@ -3,6 +3,7 @@ RENCANA KONTEN HAIKAL
 *ES6
 *Framework Javascript
 .view
+.react
 - Struktur data dasar
 - PHP FRAMEWORK
 .laravel
